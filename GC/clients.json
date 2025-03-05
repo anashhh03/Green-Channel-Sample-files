@@ -1,0 +1,74 @@
+[
+    {
+        "client_img":"./static/assets/clients/1.jpeg",
+        "alter":"Zydus"
+    },
+    {
+        "client_img":"./static/assets/clients/2.jpeg",
+        "alter":"CocaCola"
+    },
+    {
+        "client_img":"./static/assets/clients/3.jpeg",
+        "alter":"Hitachi"
+    },
+    {
+        "client_img":"./static/assets/clients/4.jpeg",
+        "alter":"HP"
+    },
+    {
+        "client_img":"./static/assets/clients/5.jpeg",
+        "alter":"Indian Oil"
+    },
+    {
+        "client_img":"./static/assets/clients/6.jpeg",
+        "alter":"Intas"
+    },
+    {
+        "client_img":"./static/assets/clients/7.jpeg",
+        "alter":"Jio"
+    },
+    {
+        "client_img":"./static/assets/clients/8.jpeg",
+        "alter":"ONGC"
+    },
+    {
+        "client_img":"./static/assets/clients/9.jpeg",
+        "alter":"TATA"
+    },
+    {
+        "client_img":"./static/assets/clients/10.jpeg",
+        "alter":"Torrent Pharma"
+    },
+    {
+        "client_img":"./static/assets/clients/11.jpeg",
+        "alter":"Castrol"
+    },
+    {
+        "client_img":"./static/assets/clients/12.jpeg",
+        "alter":"American Tourister"
+    },
+    {
+        "client_img":"./static/assets/clients/13.jpeg",
+        "alter":"Hathway"
+    },
+    {
+        "client_img":"./static/assets/clients/14.jpeg",
+        "alter":"Raymond"
+    },
+    {
+        "client_img":"./static/assets/clients/15.jpeg",
+        "alter":"Samsung"
+    },
+    {
+        "client_img":"./static/assets/clients/16.jpeg",
+        "alter":"Adani"
+    },
+    {
+        "client_img":"./static/assets/clients/17.jpeg",
+        "alter":"Aakash"
+    },
+    {
+        "client_img":"./static/assets/clients/18.jpeg",
+        "alter":"Ambuja Cement"
+    }
+]

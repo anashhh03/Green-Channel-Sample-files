@@ -1,0 +1,299 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header Top */
+.header-top {
+  background-color: rgb(0, 125, 0);
+  display: flex;
+  justify-content: space-between;
+  height: 2rem;
+  padding: 0 1rem;
+}
+
+.inner-left,
+.inner-right {
+  display: flex;
+  align-items: center;
+}
+
+.inner-left a {
+  color: white;
+  text-decoration: none;
+  font-size: .8rem;
+  /* 12px equivalent */
+}
+
+.inner-right a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  /* 12px equivalent */
+}
+
+.inner-left {
+  gap: .5rem;
+}
+
+.inner-right {
+  gap: 1.5rem;
+  font-size: 26px;
+}
+
+/* Navigation */
+nav {
+  background-color: #f0f0f0;
+  padding: 0 2rem;
+  height: 5rem;
+  z-index: 999;
+}
+
+.navbar-collapse.collapse.show {
+  flex-basis: 100%;
+  flex-grow: 1;
+  background: #eee;
+}
+
+.nav-items ul {
+  display: flex;
+  gap: 1.5rem;
+  font-weight: bold;
+  font-size: 1rem;
+  /* 18px equivalent */
+}
+
+/* Search Bar */
+.search {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 30px;
+  background: #ffffff;
+  transition: background 0.25s;
+}
+
+.search:focus-within {
+  background: #f1f1f1;
+}
+
+.search-input {
+  font-size: 0.875rem;
+  /* 14px equivalent */
+  color: #333333;
+  margin-right: 0.875rem;
+  /* 14px equivalent */
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+.search-input::placeholder,
+.search-icon {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.search-bar {
+  position: relative;
+}
+
+.search__container {
+  position: absolute;
+  z-index: 1;
+  background-color: whitesmoke;
+  height: 12rem;
+  width: 18rem;
+  overflow: hidden;
+  transition: all 0.25s ease-in-out;
+  scroll-behavior: smooth;
+}
+
+.search__container {
+  display: none;
+}
+
+
+.search__container.active {
+  overflow-y: scroll;
+  display: block;
+}
+
+.search__container .search-card {
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+}
+
+.search__container .search-card:hover {
+  background-color: rgb(176, 200, 176);
+}
+
+.search__container .product-image {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Contact Us Button */
+.contact-us {
+  margin-left: 1.3rem;
+}
+
+.contact-us button {
+  color: white;
+  background: #004d40;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+/* Footer */
+.footer-content {
+  background-color: #f4f4fb;
+  color: black;
+  padding: 2rem 1rem;
+}
+
+.footer-content .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-logo {
+  margin: 1.5rem 0;
+}
+
+.footer-address {
+  margin: 1.5rem 0;
+  line-height: 1.8rem;
+}
+
+.address {
+  font-size: 0.875rem;
+  /* 14px equivalent */
+  color: #000;
+}
+
+.footer-address p {
+  margin: .7rem 0;
+}
+
+
+.social-media {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+.social-media i {
+  font-size: 1.5rem;
+  /* 24px equivalent */
+  color: #308476;
+  transition: 0.5s ease-out;
+}
+
+.social-media i:hover {
+  border: 1px solid #257c27;
+  background: #257c27;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  /* 12px equivalent */
+  text-align: center;
+  line-height: 1.125rem;
+  /* 18px equivalent */
+  margin-bottom: 0.3rem;
+}
+
+.links-footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links-footer li a {
+  line-height: 2rem;
+  color: black;
+  text-decoration: none;
+}
+
+.hr-line {
+  margin-bottom: .7rem;
+  width: 100%;
+}
+
+@media (max-width: 999px) {
+  .contact-us {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  .navbar-collapse {
+    padding: 15px;
+  }
+
+  .nav-items ul {
+    gap: 0px;
+  }
+
+  .search-bar .search {
+    width: 100%;
+  }
+
+  .search-bar .search form {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .search-input {
+    font-size: 0.875rem;
+    /* 14px equivalent */
+    color: #333333;
+    margin-right: 0.875rem;
+    width: max-content;
+    /* 14px equivalent */
+    border: none;
+    background: transparent;
+    outline: none;
+    max-width: 15rem;
+  }
+}
+
+/* Responsive Footer */
+@media (max-width: 768px) {
+  .footer-content {
+    padding: 1.5rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-content {
+    padding: 1rem 0.5rem;
+  }
+
+  .social-media {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .social-media i {
+    font-size: 1.25rem;
+    /* 20px equivalent */
+  }
+}
+
+@media (max-width: 520px) {
+  .header-top {
+    display: none;
+  }
+}

@@ -1,0 +1,270 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.main-products {
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.inner-page-main .inner-title .wrapper .title {
+    font-size: 40px;
+    font-weight: 700;
+    color: green;
+    background: url('../static/assets/home_page_images/category.jpeg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 15rem;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.category-container {
+    display: flex;
+    overflow: hidden;
+    margin: 0 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    width: 100%;
+    max-width: 80.5%;
+    position: relative;
+}
+
+.category-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit browsers */
+}
+
+.category-container {
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
+
+.category-button {
+    background-color: white;
+    border: 1px solid green;
+    color: black;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 7px 20px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.category-button.active{
+    background-color: green;
+    color: white;
+    transition: .5s ease;
+}
+
+.category-button:hover {
+    background-color: green;
+    color: white;
+    transition: .5s ease;
+}
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.product-card {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 275px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.product-card h3 {
+    margin: 10px 20px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.product-card button {
+    margin-left: 20px;
+    padding: 7px 20px;
+    border: 1px solid green;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 65px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.product-card button:hover {
+    background-color: green;
+    color: white;
+    transition: .5s ease;
+}
+
+.pagination {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.pagination button {
+    padding: 10px 18px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.pagination button[disabled] {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.inquiry-popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 500px;
+    position: relative;
+}
+
+.close-popup {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.popup-content form {
+    display: flex;
+    flex-direction: column;
+}
+
+.popup-content form label {
+    margin-top: 10px;
+}
+
+.popup-content form input,
+.popup-content form textarea {
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.popup-content form button {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid green;
+    background-color: #ffffff;
+    color: green;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.popup-content form button:hover {
+    background-color: green;
+    color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .category-container {
+        max-width: 90%;
+    }
+
+    .product-container {
+        gap: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .inner-page-main .inner-title .wrapper .title {
+        font-size: 30px;
+        height: 12rem;
+    }
+
+    .category-container {
+        flex-direction: row;
+        align-items: center;
+        max-width: 95%;
+    }
+
+    .category-button {
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-card h3 {
+        font-size: 17px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .inner-page-main .inner-title .wrapper .title {
+        font-size: 24px;
+        height: 10rem;
+    }
+
+    .category-container {
+        padding: 5px;
+        max-width: 100%;
+    }
+
+    .category-button {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+
+    .product-card {
+        max-width: 100%;
+    } 
+
+    .popup-content {
+        width: 90%;
+    }
+}

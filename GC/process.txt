@@ -1,0 +1,72 @@
+task 1: header footer design
+task 2: home page design
+task 3: about page design 
+task 4: contact us page design
+task 5: Products Page Display With Inquiry button
+task 6: gallery page design
+task 7: JS Add 
+
+
+
+
+
+
+Home Page
+    > header
+    > carousel from old design
+    > Category carousel Display
+    > product display with pagination
+    > clients Display
+    > Institutional Channel Partners 
+    >footer
+
+Products Page
+    > header
+    > products display USing js With Pagination 
+    > product inquiry button with inquiry form
+    > footer
+
+About Page  
+    > header
+    > hero background image
+    > left side image & right side Description
+    > Channel Partners
+    > footer
+
+Gallery Page
+    > header
+    > category wise product display with pagination
+    > footer
+
+Contact US Page  < PHP Form Include On Submit >
+    > hero BG image 
+    > Location MAp
+    > address , Email, Phone
+    > send message form 
+    >footer
+
+
+    width chart :
+
+   - max-width(375) Iphone SE
+   - max-width(414) Iphhone Xr
+   - max-width(390) Iphone 12Pro
+   - max-width(430) Iphone 14Pro MAx
+   - max-width(412) Pixel 7
+   - max-width(360) Samsung Galaxy s8+
+   - max-width(412) Samsung Galaxy S20 Ultra
+   - max-width(768) Ipad Mini
+   - max-width(820) Ipad Air
+   - max-width(1024) Ipad Pro
+   - max-width(912) Surface Pro 7
+   - max-width(540) Surface Duo
+   - max-width(344) Galaxy Z Fold 5
+   - max-width(853) Asus Zenbook Fold
+   - max-width(412) Galaxy A51/71
+   - max-width(1024) Nest Hub
+   - max-width(1280) Nest Hub Max
+
+
+599
+999
+768

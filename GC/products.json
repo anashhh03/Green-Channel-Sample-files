@@ -1,0 +1,1207 @@
+[
+    {
+        "product_image":"../static/assets/products/electronics1.jpeg",
+        "product_name":"Powerbank P-1310 AMBRANCE 13000",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics2.jpeg",
+        "product_name":"RED 10050 mah Portronics Tork Powerbank",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics3.jpeg",
+        "product_name":"Stylish Keyring Metal Pendrive U351",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics4.jpeg",
+        "product_name":"Rotator USB Pendrive U290",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics5.jpeg",
+        "product_name":"Echo Dot (3rd Gen) Smart Speaker With Alexa",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics6.jpeg",
+        "product_name":"Amazon Echo Dot 4th Gen Smart Speaker",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics7.jpeg",
+        "product_name":"Amazfit Bip S Smart Watch",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics8.jpeg",
+        "product_name":"Pill Pods",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics9.jpeg",
+        "product_name":"PowerBook 2.0 Powerbank Organizer",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics10.jpeg",
+        "product_name":"Lamp Speaker",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics11.jpeg",
+        "product_name":"Bluetooth Speaker JBL-Clip-3 ",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics12.jpeg",
+        "product_name":"Waterproof Speaker Pebble IPX7",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics13.jpeg",
+        "product_name":"JBL PartyBox 300 Wireless BT Speaker",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics14.jpeg",
+        "product_name":"Smart Fitness Band Ambrance",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics15.jpeg",
+        "product_name":"Fitness Heart Tracking",
+        "product_category":"Electronics" 
+   },
+    {
+        "product_image":"../static/assets/products/electronics16.jpeg",
+        "product_name":"Wireless Ear Noise JBL Live 650BTNC",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics17.jpeg",
+        "product_name":"Portronics Muffs L",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics18.jpeg",
+        "product_name":"Zebronics HipLife Bluetoooth Headphones",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics19.jpeg",
+        "product_name":"Equalizer 7100G",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics20.jpeg",
+        "product_name":"USB KEyboard & Mouse IBall Wintop Deskset",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics21.jpeg",
+        "product_name":"Laptop Stand Portronics POR-704",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics22.jpeg",
+        "product_name":"Virtual Reality Headset",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics23.jpeg",
+        "product_name":"Sleeved 3 In 1 Cable Zebronics-UMLCC120",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics24.jpeg",
+        "product_name":"Clamp M Car MObile Holder",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics25.jpeg",
+        "product_name":"Pulse Smart Handset With Wireless Charger",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics26.jpeg",
+        "product_name":"OTG Pendrive Ball-Pen PD-032",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/electronics27.jpeg",
+        "product_name":"Pebble OTG + Pendrive",
+        "product_category":"Electronics"
+    },
+    {
+        "product_image":"../static/assets/products/apparels1.jpeg",
+        "product_name":"Yokohama Cap",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels2.jpeg",
+        "product_name":"Swiss Militry cap",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels3.jpeg",
+        "product_name":"Puma Black Cap",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels4.jpeg",
+        "product_name":"Polo T shirt",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels5.jpeg",
+        "product_name":"Sulphur DryFit",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels6.jpeg",
+        "product_name":"The Bio Collection 1",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels7.jpeg",
+        "product_name":"The Bio Collection 2",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels8.jpeg",
+        "product_name":"SweatShirt Without Zip",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels9.jpeg",
+        "product_name":"AWG Multicolor",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels10.jpeg",
+        "product_name":"Black Rainsuit",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels11.jpeg",
+        "product_name":"SleeveLess Jacket",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/apparels12.jpeg",
+        "product_name":"Awg DryFit Jacket",
+        "product_category":"Apparels"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage1.jpeg",
+        "product_name":"Grey Laptop Backpack",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage2.jpeg",
+        "product_name":"Harrisons Trooper 22L",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage3.jpeg",
+        "product_name":"Duffle Bag Cross",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage4.jpeg",
+        "product_name":"Duffle Bag WC",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage5.jpeg",
+        "product_name":"Duffle Bag TM",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage6.jpeg",
+        "product_name":"Cooler Lunch Bag",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage7.jpeg",
+        "product_name":"Custom Printed Bags",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage8.jpeg",
+        "product_name":"Conference Bags",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage9.jpeg",
+        "product_name":"Documents Holder Bag",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage10.jpeg",
+        "product_name":"American Tourister BHC",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage11.jpeg",
+        "product_name":"American Tourister Arona",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage12.jpeg",
+        "product_name":"Voyager Duffle By WC",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage13.jpeg",
+        "product_name":"New Samsonite",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/bagsAndLuggage14.jpeg",
+        "product_name":"Cross RTC",
+        "product_category":"Bags And Luggage"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits1.jpeg",
+        "product_name":"Cadboury Celebration Gift Pack",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits2.jpeg",
+        "product_name":"Cadboury Celebration Gift Pack 2",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits3.jpeg",
+        "product_name":"Cadboury Celebration Gift Pack 3",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits4.jpeg",
+        "product_name":"200 GM Dry-Fruit Pack",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits5.jpeg",
+        "product_name":"400 GM Dry-Fruit Pack",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits6.jpeg",
+        "product_name":"1 KG Dry-Fruit Pack",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits7.jpeg",
+        "product_name":"Goodwyn Tea Scroll",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits8.jpeg",
+        "product_name":"Goodwyn Tea Alluring",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/chocolatesAndDryFruits9.jpeg",
+        "product_name":"Goodwyn Eco JUTE",
+        "product_category":"Chocolates And Dry Fruits"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets1.jpeg",
+        "product_name":"Gift Hamper 1",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets2.jpeg",
+        "product_name":"4000 MAh, 4GB Pendrive Pen, &  KeyChain GiftSet",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets3.jpeg",
+        "product_name":"PF Giftset",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets4.jpeg",
+        "product_name":"Pen & Keychain 112 Giftset",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets5.jpeg",
+        "product_name":"Pen & Cardholder 115",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets6.jpeg",
+        "product_name":"Pen, Keychain & Cardholder",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets7.jpeg",
+        "product_name":"Pen, Keychain & Wallet",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets8.jpeg",
+        "product_name":"Pen, Keychain, Wallet & CardHolder",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets9.jpeg",
+        "product_name":"Wallet & Belt",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets10.jpeg",
+        "product_name":"Wallet, Belt, Pen & Keychain",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets11.jpeg",
+        "product_name":"Diary & Pen 1",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets12.jpeg",
+        "product_name":"Diary & Pen 2",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets13.jpeg",
+        "product_name":"Diary, Umbrella & Pen ",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets14.jpeg",
+        "product_name":"Diary Pen Bottle Set",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets15.jpeg",
+        "product_name":"White diary, Pen & Bottle Set",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets16.jpeg",
+        "product_name":"Bottle & Cup Set",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets17.jpeg",
+        "product_name":"Pen, Diary, CardHolder & Keychain",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/giftsets18.jpeg",
+        "product_name":"Pen, Keychain, Powerbank & Pendrive",
+        "product_category":"Gift Sets"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares1.jpeg",
+        "product_name":"750ML Bottle",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares2.jpeg",
+        "product_name":"Be Home Aluminium Bottle",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares3.jpeg",
+        "product_name":"Hammered",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares4.jpeg",
+        "product_name":"Jointless SS",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares5.jpeg",
+        "product_name":"Milton Beverage",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares6.jpeg",
+        "product_name":"Milton Thermo-Steel Steel Flask",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares7.jpeg",
+        "product_name":"Vaccumized Honeycomb Design Bottles",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares8.jpeg",
+        "product_name":"Steel Sipper Mug",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares9.jpeg",
+        "product_name":"Steel Chipcko V. MUg",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares10.jpeg",
+        "product_name":"Milton Trend Setter Bottle",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares11.jpeg",
+        "product_name":"Cello Stainless Steel Flask R.",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/Drinkwares12.jpeg",
+        "product_name":"Crysta Stainless Steel Bottle",
+        "product_category":"Drinkwares"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards1.jpeg",
+        "product_name":"Amazon GiftCard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards2.jpeg",
+        "product_name":"Flipkart Giftcard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards3.jpeg",
+        "product_name":"BigBasket Giftcard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards4.jpeg",
+        "product_name":"100/- JayHind GiftCard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards5.jpeg",
+        "product_name":"750/- JayHind GiftCard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/giftcards6.jpeg",
+        "product_name":"1000/- JayHind GiftCard Voucher",
+        "product_category":"Gift Cards"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts1.jpeg",
+        "product_name":"Wooden Rupee Designed Pen Stand & Watch",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts2.jpeg",
+        "product_name":"Bamboo B-Safe Key",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts3.jpeg",
+        "product_name":"Bamboo Desk Organizer",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts4.jpeg",
+        "product_name":"Bamboo Ear Buds",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts5.jpeg",
+        "product_name":"Bamboo Executive ToothBrush With Stand",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts6.jpeg",
+        "product_name":"Bamboo Green Box",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts7.jpeg",
+        "product_name":"Bamboo Haircomb",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts8.jpeg",
+        "product_name":"Bamboo Interdental Brushes",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts9.jpeg",
+        "product_name":"Bamboo Mobile & Desk Organizer",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts10.jpeg",
+        "product_name":"Bamboo Natural Straws",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts11.jpeg",
+        "product_name":"Bamboo Speaaker Classic",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/handicrafts12.jpeg",
+        "product_name":"Bamboo ToothBrush Set",
+        "product_category":"Handicrafts"
+    },
+    {
+        "product_image":"../static/assets/products/health1.jpeg",
+        "product_name":"Xiomi Mi Air-Purifier 2",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health2.jpeg",
+        "product_name":"HoneyWell Move Pure Car Air Purifier",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health3.jpeg",
+        "product_name":"ID 115 Fitness Band",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health4.jpeg",
+        "product_name":"MAssage With Music HA-219",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health5.jpeg",
+        "product_name":"XImmuno Plus",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health6.jpeg",
+        "product_name":"UV Sterilization Bag",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/health7.jpeg",
+        "product_name":"Eye Massager",
+        "product_category":"Health"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances1.jpeg",
+        "product_name":"Borosil Glass Chopper",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances2.jpeg",
+        "product_name":"Borosil Masterblend SB11",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances3.jpeg",
+        "product_name":"Borosil Smartmix Hand Mixer",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances4.jpeg",
+        "product_name":"Borosil Oven Toaster Griller",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances5.jpeg",
+        "product_name":"Borosil Oven Toaster Griller 19L",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances6.jpeg",
+        "product_name":"Borosil Jumbo Griller",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances7.jpeg",
+        "product_name":"Borosil Prime Grill Sandwich Maker",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances8.jpeg",
+        "product_name":"Borosil Neo Waffle Maker",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances9.jpeg",
+        "product_name":"Alexa Smart SS Kettle",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances10.jpeg",
+        "product_name":"Metal Water Bottle",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances11.jpeg",
+        "product_name":"Dry Electric Iron",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances12.jpeg",
+        "product_name":"Scarlett Dry Electric Iron",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances13.jpeg",
+        "product_name":"Glory Dry Electric Iron",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances14.jpeg",
+        "product_name":"Borosil POP-UP Toaster",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances15.jpeg",
+        "product_name":"Copper Bottom Stainless Steel Handi",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances16.jpeg",
+        "product_name":"Airstorm Lite",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances17.jpeg",
+        "product_name":"Borosil Nutrifresh Blender",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances18.jpeg",
+        "product_name":"Borosil Mixer Grinder",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances19.jpeg",
+        "product_name":"Borosil Primus || Juicer",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances20.jpeg",
+        "product_name":"Borosil Rice Cooker",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeAppliances21.jpeg",
+        "product_name":"Borosil Health Pro Slow Juicer",
+        "product_category":"Home Appliances"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts1.jpeg",
+        "product_name":"BeHome 4MM Yoga Mat",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts2.jpeg",
+        "product_name":"BeHome Reversible Yoga Mat",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts3.jpeg",
+        "product_name":"Self Stirring Coffee-Tea Mug",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts4.jpeg",
+        "product_name":"Sipper Mug With Handle",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts5.jpeg",
+        "product_name":"Milton Clasic Carefe Flask",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts6.jpeg",
+        "product_name":"Milton Cool Dew Water Jug",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts7.jpeg",
+        "product_name":"Wellspun Rangana Double BedSheets",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts8.jpeg",
+        "product_name":"V Shark",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts9.jpeg",
+        "product_name":"Photo Frame 5X7",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts10.jpeg",
+        "product_name":"Wellspun Symphony Bedsheets",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts11.jpeg",
+        "product_name":"Wellspun Gift Combo Bed In Bag",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts12.jpeg",
+        "product_name":"Wellspun Gift Combo Bedsheet & Dohar",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts13.jpeg",
+        "product_name":"Wellspun Gift Combo Bedsheets & Towels",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts14.jpeg",
+        "product_name":"Twilight Emergency Light",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts15.jpeg",
+        "product_name":"Detachable Tiffin UD",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts16.jpeg",
+        "product_name":"Handi Flask with Plastic",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts17.jpeg",
+        "product_name":"Leater Finish Plastic Coaster",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts18.jpeg",
+        "product_name":"Borosil Klip N Store Microwaveable",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts19.jpeg",
+        "product_name":"MIlton Econa 3 Tiffin With Bag",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts20.jpeg",
+        "product_name":"Milton Smart Lunch",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/homeProducts21.jpeg",
+        "product_name":"Borosil HOt N Fresh Lunch Box 3 Container",
+        "product_category":"Home Products"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames1.jpeg",
+        "product_name":"BeHome Wooden Executive Golf Set WGS-001",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames2.jpeg",
+        "product_name":"Sudoku Game Big P02",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames3.jpeg",
+        "product_name":"Mini Sudoku Game With Key Ring P03",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames4.jpeg",
+        "product_name":"Puzzle Ruler P03",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames5.jpeg",
+        "product_name":"Dice Shape Salt & Pepper E42",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames6.jpeg",
+        "product_name":"Zeb-350WG BT Telescopic Controller",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames7.jpeg",
+        "product_name":"Zeb-75WG BT Game Controller",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/leisureAndGames8.jpeg",
+        "product_name":"Personalized Play Cards(Min. 100Pcs)",
+        "product_category":"Leisure And Games"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery1.jpeg",
+        "product_name":"Table Organizer With Clock ED 1302",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery2.jpeg",
+        "product_name":"World Time 1",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery3.jpeg",
+        "product_name":"Desktop Article BTC-475 Colors",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery4.jpeg",
+        "product_name":"Desktop Article Timer BTC-466",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery5.jpeg",
+        "product_name":"Manchester Desk Mat - Leatherette Desk Mat",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery6.jpeg",
+        "product_name":"Smart Writing Set With Smart Pen Moleskine",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery7.jpeg",
+        "product_name":"Oxford Conference Organizer",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery8.jpeg",
+        "product_name":"USB Pro Notes Premium Notebook",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery9.jpeg",
+        "product_name":"Table Triangle Pen Stand With Sliding Drawers",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery10.jpeg",
+        "product_name":"Portronics BEEM-200 MultiMedia LCD Projector",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery11.jpeg",
+        "product_name":"Ergonomic Mouse",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery12.jpeg",
+        "product_name":"BeHome Memo Eco-Friendly Folding Cube Stickon",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery13.jpeg",
+        "product_name":"Folding Paper Cube In Color With Memopad & Tumbler",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery14.jpeg",
+        "product_name":"3 Chrome Plated Liquid Highlighters",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/officeStationery15.jpeg",
+        "product_name":"Roller Pen",
+        "product_category":"Office Stationery"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle1.jpeg",
+        "product_name":"Phillips BeardTrimmer Series",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle2.jpeg",
+        "product_name":"Steam Vaporizer With Face Steam Attachment",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle3.jpeg",
+        "product_name":"Portronics Portable Ruff Pad E-Writer",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle4.jpeg",
+        "product_name":"Xech Smart Band X2",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle5.jpeg",
+        "product_name":"Fuzo Globe Trotter",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle6.jpeg",
+        "product_name":"Travelling Bag-set",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle7.jpeg",
+        "product_name":"211 Card-Holder",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle8.jpeg",
+        "product_name":"Smart Loop SmartWatch",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle9.jpeg",
+        "product_name":"Wrist Watch Set",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle10.jpeg",
+        "product_name":"Cross Classic Century Slim Wallet + Belt GiftSet",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle11.jpeg",
+        "product_name":"Cross Insignia Express, Pen Case Double",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle12.jpeg",
+        "product_name":"Pierre Cardin Signature Pen",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle13.jpeg",
+        "product_name":"Folder 015 860",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle14.jpeg",
+        "product_name":"6 in 1 MIlitry KeyChain With Toolkit & Torch",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle15.jpeg",
+        "product_name":"Ovel Yin-Yang KeyChain",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle16.jpeg",
+        "product_name":"Xech Digital Frame",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/lifestyle17.jpeg",
+        "product_name":"Frame Mark & PIX",
+        "product_category":"Lifestyle"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts1.jpeg",
+        "product_name":"Sanitizer Dispensing Station Foot Operated Stand",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts2.jpeg",
+        "product_name":"Mini Infrared Touchless Intelligent Sensor Sprayer",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts3.jpeg",
+        "product_name":"Scott Coro Shield Face Mask SN95",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts4.jpeg",
+        "product_name":"Safety Face Shield",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts5.jpeg",
+        "product_name":"Urban Tribe Anti Dust Cloth M45K Mask",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts6.jpeg",
+        "product_name":"Protective Soft Goggles",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts7.jpeg",
+        "product_name":"Face Shield Plastic Head Band",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts8.jpeg",
+        "product_name":"Zebronics ContactLess Infrared Thermometer",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts9.jpeg",
+        "product_name":"ContactLess Infrared Thermometer For Thermal Scanning",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts10.jpeg",
+        "product_name":"Digitek Infrared Thermometer",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts11.jpeg",
+        "product_name":"Advance Hand Sanitizers 100ML Set",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts12.jpeg",
+        "product_name":"Pen Shaped Sanitizer Spray",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts13.jpeg",
+        "product_name":"Killer Unique Blue UV Sterilization Bag",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/safetyProducts14.jpeg",
+        "product_name":"10ml Sanitizer Spray Bottle",
+        "product_category":"Safety Products"
+    },
+    {
+        "product_image":"../static/assets/products/tools1.jpeg",
+        "product_name":"Solar Calculator With 3 Pen",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools2.jpeg",
+        "product_name":"Flip Calculator with Clock & Temprature",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools3.jpeg",
+        "product_name":"Variety Wall Clock",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools4.jpeg",
+        "product_name":"Puma Wall Clock",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools5.jpeg",
+        "product_name":"Jumbo Wall Clock",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools6.jpeg",
+        "product_name":"TRiple USB Car Charger",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools7.jpeg",
+        "product_name":"Glow-In-Dark Dual Car Charger",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools8.jpeg",
+        "product_name":"Bike Safety Hand Gloves",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools9.jpeg",
+        "product_name":"Car Tissue Box",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools10.jpeg",
+        "product_name":"Swiss Militry Smart Touch Lamp With BT Speaker",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools11.jpeg",
+        "product_name":"Xech 4 In 1 Touch LED Lamp Pen Stand",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools12.jpeg",
+        "product_name":"LED Blow Lamp Lantern",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools13.jpeg",
+        "product_name":"Folding COB Desk Touch Lamp",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools14.jpeg",
+        "product_name":"11 Functioned Swiss Knife Black",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools15.jpeg",
+        "product_name":"Sierra Handi Rechargeable LED Torch With COB Lamp",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools16.jpeg",
+        "product_name":"Mini lantern With Focus Torch",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools17.jpeg",
+        "product_name":"Triangle ToolKit(Hydraulic Screwdriver Set)",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/tools18.jpeg",
+        "product_name":"8 In 1 Folding Toolkit",
+        "product_category":"Tools"
+    },
+    {
+        "product_image":"../static/assets/products/award1.jpeg",
+        "product_name":"Handshake Crystal Trophy",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award2.jpeg",
+        "product_name":"TROPHY-2228",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award3.jpeg",
+        "product_name":"TROPHY-2639",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award4.jpeg",
+        "product_name":"TROPHY-2654",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award5.jpeg",
+        "product_name":"TROPHY-2656",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award6.jpeg",
+        "product_name":"TROPHY-2657",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award7.jpeg",
+        "product_name":"Unique Acrylic Memento",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award8.jpeg",
+        "product_name":"FTAM-637",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award9.jpeg",
+        "product_name":"Bright Heavy Medal",
+        "product_category":"Awards And Medals"
+    },
+    {
+        "product_image":"../static/assets/products/award10.jpeg",
+        "product_name":"Galaxy Silver Medal",
+        "product_category":"Awards And Medals"
+    }
+]
